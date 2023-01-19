@@ -1,3 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, montilivi!");
-Console.WriteLine("HOLA ");
+﻿internal class Program
+{
+    private static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, montilivi!");
+        Console.WriteLine("HOLA ");
+        Console.WriteLine("Hola, me llamo Mamadou");
+    }
+}
